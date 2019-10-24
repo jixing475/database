@@ -1,9 +1,3 @@
-- path: mtcars_pin
-  name: mtcars_pin
-  rows: 32
-  cols: 11
-  description: A pin of the mtcars dataset.
-  type: table
 - path: iris_pin
   name: iris_pin
   rows: 150
