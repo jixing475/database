@@ -4,3 +4,9 @@
   cols: 11
   description: A pin of the mtcars dataset.
   type: table
+- path: iris_pin
+  name: iris_pin
+  rows: 150
+  cols: 5
+  description: A pin of the iris dataset.
+  type: table
