@@ -1,0 +1,18 @@
+path:
+- data.csv
+- data.rds
+rows: 177
+cols: 10
+columns:
+  sample: character
+  CASC8: character
+  age_at_initial_pathologic_diagnosis: numeric
+  gender: character
+  race: character
+  number_of_lymphnodes_positive_by_he: character
+  pathologic_stage: character
+  pathologic_T: character
+  pathologic_M: character
+  pathologic_N: character
+description: A pin of the mtcars dataset.
+type: table
