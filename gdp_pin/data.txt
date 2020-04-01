@@ -1,0 +1,25 @@
+path:
+- data.csv
+- data.rds
+rows: 269
+cols: 16
+columns:
+  Series Name: character
+  Series Code: character
+  Country Name: character
+  Country Code: character
+  1990 [YR1990]: character
+  2000 [YR2000]: character
+  2009 [YR2009]: character
+  2010 [YR2010]: character
+  2011 [YR2011]: character
+  2012 [YR2012]: character
+  2013 [YR2013]: character
+  2014 [YR2014]: character
+  2015 [YR2015]: character
+  2016 [YR2016]: character
+  2017 [YR2017]: character
+  2018 [YR2018]: character
+description: This data contains GDP value of most of the countries for several years
+  (especially from 2000 to 2017).
+type: table
