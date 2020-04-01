@@ -10,3 +10,10 @@
   cols: 10
   description: A pin of the mtcars dataset.
   type: table
+- path: gdp_pin
+  name: gdp_pin
+  rows: 269
+  cols: 16
+  description: This data contains GDP value of most of the countries for several years
+    (especially from 2000 to 2017).
+  type: table
