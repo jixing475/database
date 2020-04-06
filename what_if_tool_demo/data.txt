@@ -1,0 +1,23 @@
+path:
+- data.csv
+- data.rds
+rows: 32561
+cols: 15
+columns:
+  Age: numeric
+  Workclass: character
+  fnlwgt: numeric
+  Education: character
+  Education-Num: numeric
+  Marital-Status: character
+  Occupation: character
+  Relationship: character
+  Race: character
+  Sex: character
+  Capital-Gain: numeric
+  Capital-Loss: numeric
+  Hours-per-week: numeric
+  Country: character
+  Over-50K: character
+description: A pin of the what-if tool demo dataset.
+type: table
