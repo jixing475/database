@@ -17,3 +17,9 @@
   description: This data contains GDP value of most of the countries for several years
     (especially from 2000 to 2017).
   type: table
+- path: what_if_tool_demo
+  name: what_if_tool_demo
+  rows: 32561
+  cols: 15
+  description: A pin of the what-if tool demo dataset.
+  type: table
