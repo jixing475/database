@@ -29,3 +29,9 @@
   cols: 21
   description: IBM Watson Telco Data Set here
   type: table
+- path: WA_Fn_UseC_Telco_Customer_Churn
+  name: WA_Fn_UseC_Telco_Customer_Churn
+  rows: 7043
+  cols: 21
+  description: IBM Watson Telco Data Set here
+  type: table
