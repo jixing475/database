@@ -1,0 +1,29 @@
+path:
+- data.csv
+- data.rds
+rows: 7043
+cols: 21
+columns:
+  customerID: character
+  gender: character
+  SeniorCitizen: numeric
+  Partner: character
+  Dependents: character
+  tenure: numeric
+  PhoneService: character
+  MultipleLines: character
+  InternetService: character
+  OnlineSecurity: character
+  OnlineBackup: character
+  DeviceProtection: character
+  TechSupport: character
+  StreamingTV: character
+  StreamingMovies: character
+  Contract: character
+  PaperlessBilling: character
+  PaymentMethod: character
+  MonthlyCharges: numeric
+  TotalCharges: numeric
+  Churn: character
+description: IBM Watson Telco Data Set here
+type: table
