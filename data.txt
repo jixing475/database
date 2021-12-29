@@ -35,9 +35,3 @@
   cols: 21
   description: IBM Watson Telco Data Set here
   type: table
-- path: mtcars_pin
-  name: mtcars_pin
-  rows: 32
-  cols: 11
-  description: A pin of the mtcars dataset.
-  type: table
